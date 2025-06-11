@@ -25,7 +25,7 @@ int main() {
   for (i = 0; i < m; i++) {
     sumas[i] = 0;
     for (j = 0; j < n; j++) {
-      //   cout << mat[i][j] << " ";
+        cout << mat[i][j] << " ";
       //    acum = acum + mat[i][j];
 
       sumas[i] = sumas[i] + mat[i][j];
