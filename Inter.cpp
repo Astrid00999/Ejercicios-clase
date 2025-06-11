@@ -7,6 +7,7 @@ int main(void) {
   // intervalo, luego pedir un numero c y se verificará si el numero ingresado
   // esta en el rango del intervalo.
 
+  //Hola bb esta es una prueba de git.. Love you forever <3
   int a, b, c, intervalo;
 
   cout << "Ingrese un numero para indicar el inicio del intervalo: ";
